@@ -28,7 +28,7 @@
             "required": false
         },
         "MAX_QUEUE_SIZE": {
-            "description": "10",
+            "description": "5",
             "required": false
         },
         "SLEEP_SECS": {
