@@ -20,11 +20,11 @@
             "description": "5915949663:AAHX63E2erlymHf7r2mYkGtT4e2vIiBTsSI"
         },
         "COMPLETED_STR": {
-            "description": "The symbol that represents the completed part of progress.",
+            "description": "@NAKFLIXTV",
             "required": false
         },
         "REMAINING_STR": {
-            "description": "The symbol that represents the remaining part of progress.",
+            "description": "@NAKFLIXTV",
             "required": false
         },
         "MAX_QUEUE_SIZE": {
@@ -32,7 +32,7 @@
             "required": false
         },
         "SLEEP_SECS": {
-            "description": "5",
+            "description": "10",
             "required": false
         },
         "IS_MONGO": {
