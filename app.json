@@ -36,7 +36,7 @@
             "required": false
         },
         "IS_MONGO": {
-            "description": "mongodb+srv://Alphanakflix:alpha3720@cluster0.a9seax6.mongodb.net/?retryWrites=true&w=majority",
+            "description": "mongodb+srv://VikingsV:alpha3720@cluster0.sanhjzg.mongodb.net/?retryWrites=true&w=majority",
             "required": false
         },
         "IS_PRIVATE": {
