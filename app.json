@@ -11,13 +11,13 @@
     "stack": "heroku-20",
     "env": {
         "API_HASH": {
-            "description": "28df6d84da76d8606bf5f0e71ecfb62c"
+            "description": "9aa6a4ac3cc08d774ab637841236651c"
         },
         "API_ID": {
-            "description": "14298205"
+            "description": "20264535"
         },
         "BOT_TOKEN": {
-            "description": "5915949663:AAHX63E2erlymHf7r2mYkGtT4e2vIiBTsSI"
+            "description": "5915949663:AAGeQkBb2tUxYk-Eyd9-xSkiD_pMJeL-n6k"
         },
         "COMPLETED_STR": {
             "description": "@NAKFLIXTV",
@@ -44,7 +44,7 @@
             "required": false
         },
         "OWNER_ID": {
-            "description": "1458235021",
+            "description": "5819288231",
             "required": false
         },
         "FORCEJOIN": {
